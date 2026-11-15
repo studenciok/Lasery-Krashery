@@ -1,4 +1,4 @@
 # Lasery-Krashery
-Serious game polytechnic project
+Serious game Polytechnic project
 
 Place .slnx level higher than folder LaseryKrashery
